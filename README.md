@@ -25,16 +25,6 @@ created: 2026-05-30
 | [[05 - Portafolio/_index\|⭐ 05 — Portafolio]]            | Proyectos, scripts, informes      | ❌ Vacío   |
 | [[05 - Portafolio/_index\|⭐ 05 — Portafolio]]            | Proyectos, scripts, informes      | ❌ Vacío   |
 
----
-
-## 📊 Progreso general
-
-- [x] **01 — Fundamentos** — OSI, TCP/IP, IP, TCP vs UDP listos
-- [x] **03 — Herramientas** — Nmap completo
-- [ ] **03 — Herramientas** — Toolkit documentado
-- [ ] **02 — Certificaciones** — Estudio activo
-- [ ] **04 — Labs** — Práctica semanal
-- [ ] **05 — Portafolio** — Proyecto publicable
 
 ---
 
