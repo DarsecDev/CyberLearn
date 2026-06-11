@@ -1,0 +1,11 @@
+# Ignorar configuracion local del workspace de Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Archivos binarios grandes (PDFs, laboratorios, libros)
+*.pdf
+*.lcpdf
+*.pka
+
+# Plugins de Obsidian (se reinstalan solos)
+.obsidian/plugins/
