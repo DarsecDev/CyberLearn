@@ -80,6 +80,5 @@ Te van a preguntar:
 
 ## Relacionado con
 
-- [[Dominio 2 - Amenazas y Ataques]]
 - [[01 - Fundamentos/_index|Fundamentos]] — Criptografía (cifrado simétrico/asimétrico)
 - [[02 - Certificaciones/Security+/Vocabulario|Vocabulario]] — RDP, EDR, MFA, C2

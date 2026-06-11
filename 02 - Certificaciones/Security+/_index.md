@@ -29,21 +29,21 @@ tags:
 
 ### Recursos que uso
 
-| Recurso | Tipo | Para qué |
-|---------|------|----------|
-| Professor Messer SY0-701 | Video (gratis) | Teoría principal |
-| Jason Dion — Security+ | Udemy | Simulacros de examen |
-| TryHackMe "CompTIA Security+" | Learning path | Práctica hands-on |
-| CompTIA Security+ Exam Objectives | PDF | Lo que entra en el examen |
-| [[CyBOK v1.1.0.pdf]] | Doc | Referencia técnica profunda |
+| Recurso                           | Tipo           | Para qué                    |
+| --------------------------------- | -------------- | --------------------------- |
+| Professor Messer SY0-701          | Video (gratis) | Teoría principal            |
+| Jason Dion — Security+            | Udemy          | Simulacros de examen        |
+| TryHackMe "CompTIA Security+"     | Learning path  | Práctica hands-on           |
+| CompTIA Security+ Exam Objectives | PDF            | Lo que entra en el examen   |
+| [[CyBOK v1.1.0.pdf]]              | Doc            | Referencia técnica profunda |
 
 ## Notas de dominio
 
-- [[02 - Certificaciones/Security+/Notas/Dominio 1 - Conceptos Generales|Dominio 1 — Conceptos Generales]]
-- [[02 - Certificaciones/Security+/Notas/Dominio 2 - Amenazas y Ataques|Dominio 2 — Amenazas y Ataques]]
-- [[02 - Certificaciones/Security+/Notas/Dominio 3 - Arquitectura de Seguridad|Dominio 3 — Arquitectura]]
-- [[02 - Certificaciones/Security+/Notas/Dominio 4 - Operaciones de Seguridad|Dominio 4 — Operaciones]]
-- [[02 - Certificaciones/Security+/Notas/Dominio 5 - Gobernanza y Cumplimiento|Dominio 5 — Gobernanza]]
+- [[02 - Certificaciones/Security+/Notas/01 - Conceptos Generales/_index|Dominio 1 — Conceptos Generales]]
+- [[02 - Certificaciones/Security+/Notas/02 - Amenazas y Ataques/_index|Dominio 2 — Amenazas y Ataques]]
+- [[02 - Certificaciones/Security+/Notas/03 - Arquitectura/_index|Dominio 3 — Arquitectura]]
+- [[02 - Certificaciones/Security+/Notas/04 - Operaciones/_index|Dominio 4 — Operaciones]]
+- [[02 - Certificaciones/Security+/Notas/05 - Gobernanza/_index|Dominio 5 — Gobernanza]]
 
 ## Apoyo
 
