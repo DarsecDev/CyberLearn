@@ -84,10 +84,10 @@ python -c 'import os; os.execl("/bin/sh", "sh", "-p")'
 
 ## 🏁 Flags
 
-| Flag | Hash |
-|------|------|
-| User | cat /home/rootme/user.txt  (o /home/user.txt) |
-| Root | cat /root/root.txt |
+| Flag | Hash | Path                 |
+| ---- | ---- | -------------------- |
+| User |      | home/rootme/user.txt |
+| Root |      | /root/root.txt       |
 
 ---
 
